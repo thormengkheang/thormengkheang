@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi, I'm a Senior Mobile Developer with extensive experience in React Native. Currently, I'm working on building robust and scalable mobile applications for a range of clients. I'm always looking to collaborate with other developers who share my passion for mobile development and want to work on exciting projects.<br><br>I'm particularly interested in getting help with optimizing app performance and improving app security. Currently, I'm learning more about machine learning and its applications in mobile development.<br><br>You can ask me about anything related to mobile development, particularly in React Native. I love discussing new ideas and exploring different ways to approach challenges.<br><br>Fun fact about me - I'm an avid traveler and love exploring new cultures and cuisines.
+👋 Hi there! I’m a Senior Software Engineer specializing in building high-performance mobile and frontend applications. With a strong focus on modern web technologies, I bring ideas to life through clean, efficient, and scalable code.
+
+🔧 Technical Expertise:
+
+-	**Mobile Development**: Proficient in developing robust and engaging mobile applications using **Expo**.
+
+-	**Frontend Development**: Experienced in creating dynamic, server-rendered web applications with **Next.js**.
+
+-	**Styling**: Skilled in using **Tailwind CSS** and **shadcn/ui** to craft responsive and aesthetically pleasing user interfaces.
+
+-	**Authentication**: Implementing secure and seamless authentication workflows with **NextAuth**.
+
+-	**Internationalization**: Building multilingual applications using **i18n with Next.js**.
+
+-	**Testing**: Ensuring high code quality and reliability by writing comprehensive tests with **Vitest**.
+
+-	**Performance Optimization**: Utilizing advanced techniques like lazy loading and server-side rendering for optimal application performance.
+
+💡 I enjoy collaborating with cross-functional teams to deliver innovative solutions that meet business goals and exceed user expectations. When I’m not coding, you can find me exploring new technologies, contributing to open-source projects, and continuously learning to stay ahead in the ever-evolving tech landscape.
+
+Feel free to explore my repositories and reach out if you want to connect or collaborate!
+
+Happy coding!
 
 
 ## 🌐 Socials:
