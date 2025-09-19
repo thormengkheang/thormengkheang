@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m **Mengkheang Thor**, a **Senior Software Engineer** specializing in **React.js, Next.js, React Native (Expo)**, and **TypeScript**. I build **secure, scalable, and user-friendly** apps with modern UI frameworks like **Tailwind CSS**, **shadcn/ui**, and **Material UI**.  
+Hi 👋, I am a **Senior Software Engineer** specializing in **React.js, Next.js, React Native (Expo)**, and **TypeScript**. I build **secure, scalable, and user-friendly** apps with modern UI frameworks like **Tailwind CSS**, **shadcn/ui**, and **Material UI**.  
 
 🚀 Experienced in **fintech, consumer apps, and core banking systems**, I’ve delivered solutions at **Wing, NHAM24, Mediaload,** and **Morakot Technology**. My focus: **performance, accessibility, clean code, and testing**.  
 
